@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# WebdriverIO artifacts
+allure-results/
+allure-report/
+*.log
+
+# Mac & VSCode & IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Test recordings
+*.mp4
+screenshots/
+
+# Environment files
+.env
+.env.local
